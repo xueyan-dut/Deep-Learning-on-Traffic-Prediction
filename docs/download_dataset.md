@@ -10,3 +10,14 @@ Based on this system, several sub-dataset versions (PeMSD3/4/7(M)/7/8/-SF/-BAY) 
 This dataset is a piece of data processed by Song et al. It includes 358 sensors and flow information from 9/1/2018 to 11/30/2018. A processed version is available at: https://github.com/Davidham3/STSGCN.
 #### 1.2.2 PeMSD4
 It describes the San Francisco Bay Area, and contains 3848 sensors on 29 roads dated from 1/1/2018 until 2/28/2018, 59 days in total. A processed version is available at: https://github.com/Davidham3/ASTGCN/tree/master/data/PEMS04.
+#### 1.2.3 PeMSD7(M)
+It describes the District 7 of California containing 228 stations, and The time range of it is in the weekdays of May and June of 2012. A processed version is available at: https://github.com/Davidham3/STGCN/tree/master/datasets. 
+#### 1.2.4 PeMSD7
+This version was publicly released by Song et al. It contains traffic flow information from 883 sensor stations, covering the period from 7/1/2016 to 8/31/2016. A processed version is available at:https://github.com/Davidham3/STSGCN.
+#### 1.2.5 PeMSD8
+It depicts the San Bernardino Area, and contains 1979 sensors on 8 roads dated from 7/1/2016 until 8/31/2016, 62 days in total. A processed version is available at: https://github.com/Davidham3/ASTGCN/tree/master/data/PEMS08.
+#### 1.2.6 PeMSD-SF
+This dataset describes the occupancy rate, between 0 and 1, of different car lanes of San Francisco bay area freeways. The time span of these measurements is from 1/1/2008 to 3/30/2009 and the data is sampled every 10 minutes. The source is available at: http://archive.ics.uci.edu/ml/datasets/PEMS-SF.
+#### 1.2.7 PeMSD-BAY
+It contains 6 months of statistics on traffic speed, ranging from 1/1/2017 to 6/30/2017, including 325 sensors in the Bay area. The source is available at:
+https://github.com/liyaguang/DCRNN.
