@@ -41,4 +41,60 @@ This is the taxi trajectory of Shenzhen from Jan.1 to Jan.31, 2015. It contains 
 ## 7 NYC Bike
 The bike trajectories are collected from NYC CitiBike system. There are about 13000 bikes and 800 stations in total. The source is available at: https://www.citibikenyc.com/systemdata. A processed version is available at: https://github.com/lucktroy/DeepST/tree/master/data/BikeNYC.<br><br><br>
 ****
-## 8 
+## 8 NYC Taxi
+The trajectory data is taxi GPS data for New York City from 2009 to 2018. The source is available at: https://www1.nyc.gov/site/tlc/about/tlc-triprecord-data.page<br><br><br>
+****
+## 9 Q-Traffic dataset
+It consists of three sub-datasets: query sub-dataset, traffic speed sub-dataset and road network sub-dataset. These data are collected in Beijing, China between April 1, 2017 and May 31, 2017, from the Baidu Map. The source is available at: https://github.com/JingqingZ/BaiduTraffic#Dataset.<br><br><br>
+****
+## 10 Chicago
+This is the trajectory of shared bikes in Chicago from 2013 to 2018. The source is available at: https://www.divvybikes.com/system-data.<br><br><br>
+****
+## BikeDC
+It is taken from the Washington D.C.Bike System. The dataset includes data from 472 stations and four time intervals of 2011, 2012, 2014 and 2016. The source is available at: https://www.capitalbikeshare.com/systemdata.<br><br><br>
+****
+## ENG-HW
+It contains traffic flow information from inter-city highways between three cities, recorded by British Government, with a time
+range of 2006 to 2014. The source is available at: http://tris.highwaysengland.co.uk/detail/trafficflowdata.<br><br><br>
+****
+## T-Drive
+It consists of tremendous amounts of trajectories of Beijing taxicabs from Feb.1st, 2015 to Jun. 2nd 2015. These trajectories can be used to calculate the traffic
+flow in each region. The source is available at: https://www.microsoft.com/en-us/research/publication/tdrive-driving-directions-based-on-taxi-trajectories/.<br><br><br>
+****
+## I-80
+It is collected detailed vehicle trajectory data on eastbound I-80 in the San Francisco Bay area in Emeryville, CA, on April 13, 2005. The dataset is 45 minutes long, and the vehicle trajectory data provides the precise location of each vehicle in the study area every tenth of a second. The source is available at: http://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm.<br><br><br>
+****
+## DiDi chuxing: DiDi gaia data open program provides real
+and free desensitization data resources to the academic
+community. It mainly includes travel time index, travel
+and trajectory datasets of multiple cities. The source is
+available at: https://gaia.didichuxing.com.<br><br><br>
+****
+## Travel Time Index data:
+The dataset includes the travel time index of Shenzhen,
+Suzhou, Jinan, and Haikou, including travel time index
+and average driving speed of city-level, district-level,
+and road-level, and time range is from 1/1/2018 to
+12/31/2018. It also includes the trajectory data of the Didi
+taxi platform from 10/1/2018 to 12/1/2018 in the second
+ring road area of Chengdu and Xi’an, as well as travel
+time index and average driving speed of road-level in
+the region, and Chengdu and Xi’an city-level. Moreover,
+the city-level, district-level, road-level travel time index
+and average driving speed of Chengdu and Xi’an from
+1/1/2018 to 12/31/2018 is contained.
+Travel data:
+This dataset contains daily order data from 5/1/2017 to
+10/31/2017 in Haikou City, including the latitude and
+longitude of the start and end of the order, as well as
+the order attribute of the order type, travel category, and
+number of passengers.
+Trajectory data:
+This dataset comes from the order driver trajectory data
+of the Didi taxi platform in October and November 2016
+in the Second Ring Area of Xi’an and Chengdu. The
+trajectory point collection interval is 2-4s. The trajectory
+points have been processed for road binding, ensuring that
+the data corresponds to the actual road information. The
+driver and order information were encrypted, desensitized
+and anonymized.
