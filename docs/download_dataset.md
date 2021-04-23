@@ -35,3 +35,10 @@ This dataset is collected in the highway of Los Angeles County in real time by l
 Trajectory data is the taxicab GPS data and meteorology data in Beijing from four time intervals: 1st Jul. 2013 - 30th Otc. 2013, 1st Mar. 2014 -
 30th Jun. 2014, 1st Mar. 2015 - 30th Jun. 2015, 1st Nov. 2015 - 10th Apr. 2016. The source is available at: https://github.com/lucktroy/DeepST/tree/master/data/TaxiBJ<br><br><br>
 ****
+## 6 SZ-taxi
+This is the taxi trajectory of Shenzhen from Jan.1 to Jan.31, 2015. It contains 156 major roads of Luohu District as the study area. The speed of traffic on each road is calculated every 15 minutes. The source is available at: https://github.com/lehaifeng/TGCN/tree/master/data.<br><br><br>
+****
+## 7 NYC Bike
+The bike trajectories are collected from NYC CitiBike system. There are about 13000 bikes and 800 stations in total. The source is available at: https://www.citibikenyc.com/systemdata. A processed version is available at: https://github.com/lucktroy/DeepST/tree/master/data/BikeNYC.<br><br><br>
+****
+## 8 
