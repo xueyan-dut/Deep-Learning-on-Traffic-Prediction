@@ -21,3 +21,5 @@ This dataset describes the occupancy rate, between 0 and 1, of different car lan
 #### 1.2.7 PeMSD-BAY
 It contains 6 months of statistics on traffic speed, ranging from 1/1/2017 to 6/30/2017, including 325 sensors in the Bay area. The source is available at:
 https://github.com/liyaguang/DCRNN.
+## 2.METR-LA
+It records four months of statistics on traffic speed, ranging from 3/1/2012 to 6/30/2012, including 207 sensors on the highways of Los Angeles County. The source is available at: https://github.com/liyaguang/DCRNN.
