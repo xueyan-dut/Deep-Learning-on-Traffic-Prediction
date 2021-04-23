@@ -28,3 +28,10 @@ It records four months of statistics on traffic speed, ranging from 3/1/2012 to 
 ****
 ## 3 LOOP
 It is collected from loop detectors deployed on four connected freeways (I-5, I-405, I-90 and SR520) in the Greater Seattle Area. It contains traffic state data from 323 sensor stations over the entirely of 2015 at 5-minute intervals. The source is available at: https://github.com/zhiyongc/Seattle-Loop-Data.<br><br><br>
+## 4 Los-loop
+This dataset is collected in the highway of Los Angeles County in real time by loop detectors. It includes 207 sensors and its traffic speed is collected from 3/1/2012 to 3/7/2012. These traffic speed data is aggregated every 5 minutes. The source is available at:https://github.com/lehaifeng/T-GCN/tree/master/data.<br><br><br>
+****
+## 5 TaxiBJ
+Trajectory data is the taxicab GPS data and meteorology data in Beijing from four time intervals: 1st Jul. 2013 - 30th Otc. 2013, 1st Mar. 2014 -
+30th Jun. 2014, 1st Mar. 2015 - 30th Jun. 2015, 1st Nov. 2015 - 10th Apr. 2016. The source is available at: https://github.com/lucktroy/DeepST/tree/master/data/TaxiBJ<br><br><br>
+****
