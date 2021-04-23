@@ -22,7 +22,9 @@ This dataset describes the occupancy rate, between 0 and 1, of different car lan
 ### 1.9 PeMSD-BAY
 It contains 6 months of statistics on traffic speed, ranging from 1/1/2017 to 6/30/2017, including 325 sensors in the Bay area. The source is available at:
 https://github.com/liyaguang/DCRNN.<br><br><br>
+****
 ## 2 METR-LA
 It records four months of statistics on traffic speed, ranging from 3/1/2012 to 6/30/2012, including 207 sensors on the highways of Los Angeles County. The source is available at: https://github.com/liyaguang/DCRNN.<br><br><br>
+****
 ## 3 LOOP
 It is collected from loop detectors deployed on four connected freeways (I-5, I-405, I-90 and SR520) in the Greater Seattle Area. It contains traffic state data from 323 sensor stations over the entirely of 2015 at 5-minute intervals. The source is available at: https://github.com/zhiyongc/Seattle-Loop-Data.<br><br><br>
