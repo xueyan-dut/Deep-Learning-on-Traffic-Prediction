@@ -73,8 +73,8 @@ The dataset includes the travel time index of Shenzhen, Suzhou, Jinan, and Haiko
 ### 17.1 Travel data:
 This dataset contains daily order data from 5/1/2017 to 10/31/2017 in Haikou City, including the latitude and longitude of the start and end of the order, as well as the order attribute of the order type, travel category, and number of passengers. The source is available at:  https://outreach.didichuxing.com/app-vue/HaiKou?id=999<br>
 ### 17.2 Trajectory data:
-This dataset comes from the order driver trajectory data of the Didi taxi platform in October and November 2016 in the Second Ring Area of Xi’an and Chengdu. The trajectory point collection interval is 2-4s. The trajectory points have been processed for road binding, ensuring that the data corresponds to the actual road information. The driver and order information were encrypted, desensitized and anonymized.The data source from Xi 'an in October and November respectively available at:https://outreach.didichuxing.com/app-vue/XiAnOct2016?id=6 and https://outreach.didichuxing.com/app-vue/XiAnNov2016?id=5. The data source from Chengdu in October and November respectively available at https://outreach.didichuxing.com/app-vue/ChengDuOct2016?id=4 and https://outreach.didichuxing.com/app-vue/personal?id=1.
-|#|Xi 'an|Chengdu|
+This dataset comes from the order driver trajectory data of the Didi taxi platform in October and November 2016 in the Second Ring Area of Xi’an and Chengdu. The trajectory point collection interval is 2-4s. The trajectory points have been processed for road binding, ensuring that the data corresponds to the actual road information. The driver and order information were encrypted, desensitized and anonymized.The table below illustrates the sources of these data.
+|Dateset|Xi 'an|Chengdu|
 |---|----|-----|
 |October|https://outreach.didichuxing.com/app-vue/XiAnOct2016?id=6|https://outreach.didichuxing.com/app-vue/ChengDuOct2016?id=4|
 |November|https://outreach.didichuxing.com/app-vue/XiAnNov2016?id=5|https://outreach.didichuxing.com/app-vue/personal?id=1|
