@@ -68,11 +68,11 @@ community. It mainly includes travel time index, travel
 and trajectory datasets of multiple cities. The source is
 available at: https://gaia.didichuxing.com.<br><br><br>
 ****
-## 17 Travel Time Index data:
+## 16 Travel Time Index data(Data source: Didi Chuxing GAIA Initiative)
 The dataset includes the travel time index of Shenzhen, Suzhou, Jinan, and Haikou, including travel time index and average driving speed of city-level, district-level, and road level, and time range is from 1/1/2018 to 12/31/2018. It also includes the trajectory data of the Didi taxi platform from 10/1/2018 to 12/1/2018 in the second ring road area of Chengdu and Xi’an, as well as travel time index and average driving speed of road-level in the region, and Chengdu and Xi’an city-level. Moreover, the city-level, district-level, road-level travel time index and average driving speed of Chengdu and Xi’an from 1/1/2018 to 12/31/2018 is contained.The source is available at: https://github.com/didi/TrafficIndex.<br>
-### 17.1 Travel data:
+### 16.1 Travel data
 This dataset contains daily order data from 5/1/2017 to 10/31/2017 in Haikou City, including the latitude and longitude of the start and end of the order, as well as the order attribute of the order type, travel category, and number of passengers. The source is available at:  https://outreach.didichuxing.com/app-vue/HaiKou?id=999<br>
-### 17.2 Trajectory data:
+### 16.2 Trajectory data:
 This dataset comes from the order driver trajectory data of the Didi taxi platform in October and November 2016 in the Second Ring Area of Xi’an and Chengdu. The trajectory point collection interval is 2-4s. The trajectory points have been processed for road binding, ensuring that the data corresponds to the actual road information. The driver and order information were encrypted, desensitized and anonymized.The table below illustrates the sources of these data.
 |Dateset|Xi 'an|Chengdu|
 |---|----|-----|
