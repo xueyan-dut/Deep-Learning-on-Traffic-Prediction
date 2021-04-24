@@ -53,7 +53,7 @@ report the average training time of one epoch. For inference,
 we compute the time cost on the validation data. The results
 are shown in the table below.
 ****
-![PERFORMANCE OF TRAFFIC SPEED PREDICTION ON METR-LA.](https://github.com/xueyan-dut/Deep-Learning-on-Traffic-Prediction/blob/main/Experiment/Results/prediction-results.jpg)
+![COMPUTATION COST ON METR-LA.](https://github.com/xueyan-dut/Deep-Learning-on-Traffic-Prediction/blob/main/Experiment/Results/computation-cost.jpg)
 ****
 STGCN adopts fully convolutional
 structures so that it is the fastest in training, and DRCNN
