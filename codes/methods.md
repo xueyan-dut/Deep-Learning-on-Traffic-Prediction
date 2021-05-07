@@ -4,9 +4,5 @@ The public code for these approaches is shown below.
 |---|----|-----|
 |FLOW|DeepST<br>DeepSTN<br>ST3DNet<br>ST-MetaNet<br>GMAN<br>ASTGCN<br>GMEL|https://github.com/Apol1ox/DeepST-ResNet<br>https://github.com/FIBLAB/DeepSTN<br>https://github.com/saoruy/ST3DNet<br>https://github.com/panzheyi/ST-MetaNet<br>https://github.com/zhengchuanpan/GMAN<br>https://github.com/guoshnBJTU/ASTGCN-r-pytorch<br>https://github.com/jackmiemie/GMEL|
 |SPEED|ST-GCN<br>T-GCN<br>DSLAI<br>Graph WaveNet<br>DCRNN<br>GMAN|https://github.com/VeritasYin/STGCN_IJCAI-18<br>https://www.github.com/lehaifeng/T-GCN<br>https://github.com/JingqingZ/BaiduTraffic<br>https://github.com/nnzhan/Graph-WaveNet<br>https://github.com/liyaguang/DCRNN<br>https://github.com/zhengchuanpan/GMAN|
-|3|PeMSD4|https://github.com/Davidham3/ASTGCN/tree/master/data/PEMS04|
-|4|PeMSD7(M)|https://github.com/Davidham3/STGCN/tree/master/datasets|
-|5|PeMSD7|https://github.com/Davidham3/STSGCN|
-|6|PeMSD8|https://github.com/Davidham3/ASTGCN/tree/master/data/PEMS08|
-|7|PeMSD-SF|http://archive.ics.uci.edu/ml/datasets/PEMS-SF|
-|8|PeMSD-BAY|https://github.com/liyaguang/DCRNN|
+|DEMAND|STG2Seq<br>ST-MGCN<br>CGT|https://github.com/LeiBAI/STG2Seq<br>https://github.com/yizhan42/ST-MGCN-pytorch<br>https://github.com/CGT-ICLR2020/CGT-ICLR2020|
+|OCCUPANCY|LSTNet|https://github.com/fbadine/LSTNet|
