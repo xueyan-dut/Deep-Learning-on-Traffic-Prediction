@@ -6,6 +6,7 @@ We collect and summarize available traffic prediction datasets.<br><br>
 [Proceed as follows](https://github.com/xueyan-dut/Deep-Learning-on-Traffic-Prediction/blob/main/dataset/download_dataset.md) to download the Public datasets used for the prediction task.<br><br><br>
 2.experiment config
 ----
+We perform a comparative experimental study to evaluate different models, identifying the most effective component.<br><br>
 [Proceed as follows](https://github.com/xueyan-dut/Deep-Learning-on-Traffic-Prediction/blob/main/Experiment/config.md) to understand the configuration method of our experiment<br><br><br><br>
 3.codes
 ----
