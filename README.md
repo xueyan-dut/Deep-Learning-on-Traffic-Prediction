@@ -16,11 +16,11 @@ We summarize some approaches to deep learning for traffic prediction and present
 Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin, "[Deep Learning on Traffic Prediction: Methods,Analysis and Future Directions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352246)",IEEE,2021.
 If you find this code and dataset useful for your research, please cite our paper:
 >@ARTICLE{9352246,<br>
-  >&emsp;&emsp;author={Yin, Xueyan and Wu, Genze and Wei, Jinze and Shen, Yanming and Qi, Heng and Yin, Baocai},<br>
-  >&emsp;&emsp;journal={IEEE Transactions on Intelligent Transportation Systems}, <br>
-  >&emsp;&emsp;title={Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions}, <br>
-  >&emsp;&emsp;year={2021},<br>
-  >&emsp;&emsp;volume={},<br>
-  >&emsp;&emsp;number={},<br>
-  >&emsp;&emsp;pages={1-17},<br>
-  >&emsp;&emsp;doi={10.1109/TITS.2021.3054840}}<br>
+  >&emsp;&ensp;author={Yin, Xueyan and Wu, Genze and Wei, Jinze and Shen, Yanming and Qi, Heng and Yin, Baocai},<br>
+  >&emsp;&ensp;journal={IEEE Transactions on Intelligent Transportation Systems}, <br>
+  >&emsp;&ensp;title={Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions}, <br>
+  >&emsp;&ensp;year={2021},<br>
+  >&emsp;&ensp;volume={},<br>
+  >&emsp;&ensp;number={},<br>
+  >&emsp;&ensp;pages={1-17},<br>
+  >&emsp;&ensp;doi={10.1109/TITS.2021.3054840}}<br>
