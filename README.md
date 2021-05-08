@@ -13,4 +13,4 @@ We perform a comparative experimental study to evaluate different models, identi
 We summarize some approaches to deep learning for traffic prediction and presented their public code in [approaches.md](https://github.com/xueyan-dut/Deep-Learning-on-Traffic-Prediction/blob/main/codes/approaches.md)<br><br>Furthermore, we do a taxonomy for existing approaches, describing their key design choices in [our paper](https://arxiv.org/pdf/2004.08555v4.pdf).<br><br><br>
 4.Reference
 ----
-[Deep Learning on Traffic Prediction: Methods,Analysis and Future Directions](https://arxiv.org/pdf/2004.08555v4.pdf)
+[Deep Learning on Traffic Prediction: Methods,Analysis and Future Directions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352246)
