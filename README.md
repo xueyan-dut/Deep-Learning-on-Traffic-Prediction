@@ -15,12 +15,12 @@ We summarize some approaches to deep learning for traffic prediction and present
 ----
 Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin, "[Deep Learning on Traffic Prediction: Methods,Analysis and Future Directions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352246)",IEEE,2021.
 If you find this code and dataset useful for your research, please cite our paper:
->@ARTICLE{9352246,
-  >author={Yin, Xueyan and Wu, Genze and Wei, Jinze and Shen, Yanming and Qi, Heng and Yin, Baocai},
-  >journal={IEEE Transactions on Intelligent Transportation Systems}, 
-  >title={Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions}, 
-  >year={2021},
-  >volume={},
-  >number={},
-  >pages={1-17},
-  >doi={10.1109/TITS.2021.3054840}}
+>@ARTICLE{9352246,<br>
+  >author={Yin, Xueyan and Wu, Genze and Wei, Jinze and Shen, Yanming and Qi, Heng and Yin, Baocai},<br>
+  >journal={IEEE Transactions on Intelligent Transportation Systems}, <br>
+  >title={Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions}, <br>
+  >year={2021},<br>
+  >volume={},<br>
+  >number={},<br>
+  >pages={1-17},<br>
+  >doi={10.1109/TITS.2021.3054840}}<br>
